@@ -53,11 +53,11 @@ My goal is to keep evolving as a developer, create useful projects, and turn ide
 </a>
 
 <a href="https://www.instagram.com/ramongimenes" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/white" />
 </a>
 
 <a href="https://github.com/ramongime" target="_blank">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github/white" />
 </a>
 
 <br />
