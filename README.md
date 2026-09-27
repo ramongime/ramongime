@@ -92,7 +92,7 @@ that are simple, useful and easy to use: code matters, but the solved problem is
 ## 🚀 Featured projects
 
 <a href="https://ciclosapp.com.br/">
-  <img src="assets/projects/ciclos.png" alt="Ciclos — recurring tasks, habits and routines app" width="100%">
+  <img src="assets/projects/ciclos-en.jpg" alt="Ciclos — recurring tasks, habits and routines app" width="100%">
 </a>
 
 ### [♻️ Ciclos](https://ciclosapp.com.br/)
@@ -108,7 +108,7 @@ A mobile app to manage **recurring tasks, habits and routines**, built with **Re
 <br>
 
 <a href="https://github.com/ramongime/Fokus">
-  <img src="https://raw.githubusercontent.com/ramongime/Fokus/main/docs/banner.png" alt="Fokus — Pomodoro timer and task list" width="100%">
+  <img src="assets/projects/fokus-en.jpg" alt="Fokus — Pomodoro timer and task list" width="100%">
 </a>
 
 ### [🍅 Fokus](https://github.com/ramongime/Fokus)
