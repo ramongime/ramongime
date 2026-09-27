@@ -66,7 +66,23 @@ practical solutions. I'm improving my skills in **backend**, **frontend** and **
 
 <br>
 
-## 🚀 Featured project
+## 🚀 Featured projects
+
+<a href="https://ciclosapp.com.br/">
+  <img src="assets/projects/ciclos.png" alt="Ciclos — recurring tasks, habits and routines app" width="100%">
+</a>
+
+### [♻️ Ciclos](https://ciclosapp.com.br/)
+
+A mobile app to manage **recurring tasks, habits and routines**, built with **React Native and Expo**.
+
+- 🔁 Cycles with flexible intervals, from hours to years, renewed with one tap
+- 🔔 Local reminders before a cycle is due and when it's overdue
+- 🏆 Challenges with invite codes, a consistency ranking and a monthly global challenge
+- 💡 Ready-made suggestions, categories, light and dark themes, in Portuguese, English and Spanish
+- 💎 Premium plan with RevenueCat and ads with AdMob
+
+<br>
 
 <a href="https://github.com/ramongime/Fokus">
   <img src="https://raw.githubusercontent.com/ramongime/Fokus/main/docs/banner.png" alt="Fokus — Pomodoro timer and task list" width="100%">
