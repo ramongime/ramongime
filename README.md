@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Ramon Gimenes — Java Developer · Backend · Mobile" width="100%">
+<img src="assets/banner.png" alt="Ramon Gimenes — Senior Java Developer · 9 years" width="100%">
 
 <br>
 
@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About me
 
-Brazilian developer focused on **Java**, always exploring new technologies and building
-practical solutions. I'm improving my skills in **backend**, **frontend** and **mobile** with
-**React Native**, and my goal is simple: keep evolving and turn ideas into real products.
+**Senior Java developer** from Brazil with **9 years of experience** building backends with
+**Java and Spring Boot**. I also build mobile apps with **React Native**, and I like solutions
+that are simple, useful and easy to use: code matters, but the solved problem is what counts.
 
-- ☕ Building backends with **Java** and **Spring Boot**
-- 📱 Learning **React Native** and modern web development
-- 🍅 Currently building [**Fokus**](https://github.com/ramongime/Fokus), a Pomodoro app for focus
-- 💡 I like solutions that are simple, useful and easy to use
+- ☕ 9 years building backends with **Java** and **Spring Boot**
+- 🧩 Microservices, relational and NoSQL databases, messaging and cloud
+- 📱 Creator of [**Ciclos**](https://ciclosapp.com.br/) and [**Fokus**](https://github.com/ramongime/Fokus), built with React Native
+- 💡 Simple, useful and easy to use: that's the goal
 
 <br>
 
@@ -31,7 +31,19 @@ practical solutions. I'm improving my skills in **backend**, **frontend** and **
     <td>
       <img src="assets/stack/java.svg" width="52" alt="Java" title="Java">
       <img src="assets/stack/spring.svg" width="52" alt="Spring Boot" title="Spring Boot">
-      <br><sub>Java · Spring Boot · REST APIs · SQL</sub>
+      <img src="assets/stack/hibernate.svg" width="52" alt="Hibernate" title="Hibernate">
+      <img src="assets/stack/quarkus.svg" width="52" alt="Quarkus" title="Quarkus">
+      <br><sub>Java · Spring Boot · Hibernate · Quarkus · REST APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td>
+      <img src="assets/stack/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
+      <img src="assets/stack/mongodb.svg" width="52" alt="MongoDB" title="MongoDB">
+      <img src="assets/stack/redis.svg" width="52" alt="Redis" title="Redis">
+      <img src="assets/stack/kafka.svg" width="52" alt="Apache Kafka" title="Apache Kafka">
+      <br><sub>SQL · PostgreSQL · MongoDB · Redis · Kafka</sub>
     </td>
   </tr>
   <tr>
@@ -50,6 +62,15 @@ practical solutions. I'm improving my skills in **backend**, **frontend** and **
       <img src="assets/stack/react.svg" width="52" alt="React Native" title="React Native">
       <img src="assets/stack/expo.svg" width="52" alt="Expo" title="Expo">
       <br><sub>React Native · Expo</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra</b></td>
+    <td>
+      <img src="assets/stack/docker.svg" width="52" alt="Docker" title="Docker">
+      <img src="assets/stack/kubernetes.svg" width="52" alt="Kubernetes" title="Kubernetes">
+      <img src="assets/stack/aws.svg" width="52" alt="AWS" title="AWS">
+      <br><sub>Docker · Kubernetes · AWS · CI/CD</sub>
     </td>
   </tr>
   <tr>
