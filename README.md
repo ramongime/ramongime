@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Ramon Gimenes — Senior Java Developer · 9 years" width="100%">
+<a href="https://ramongimenes.dev.br/">
+  <img src="assets/banner.png" alt="Ramon Gimenes — Senior Java Developer · 9 years" width="100%">
+</a>
 
 <br>
 
@@ -133,6 +135,7 @@ A minimalist **Pomodoro timer + task list** built with **React Native and Expo**
 
 ## 🤝 Let's connect
 
+<a href="https://ramongimenes.dev.br/"><img src="assets/contact/website.svg" alt="Portfolio: ramongimenes.dev.br" height="44"></a>
 <a href="https://www.linkedin.com/in/ramon-gimenes/"><img src="assets/contact/linkedin.svg" alt="LinkedIn" height="44"></a>
 <a href="mailto:ramongimeee@gmail.com"><img src="assets/contact/email.svg" alt="Email" height="44"></a>
 <a href="https://www.instagram.com/ramongimenes"><img src="assets/contact/instagram.svg" alt="Instagram" height="44"></a>
