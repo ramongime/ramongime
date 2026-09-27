@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="assets/flags/us.svg" width="20" alt=""> <b>English</b> &nbsp;·&nbsp; <a href="https://github.com/ramongime/ramongime/blob/main/README.pt-BR.md"><img src="assets/flags/br.svg" width="20" alt=""> Português</a>
+  <a href="https://github.com/ramongime"><img src="assets/flags/us.svg" width="20" alt=""> English</a> &nbsp;·&nbsp; <img src="assets/flags/br.svg" width="20" alt=""> <b>Português</b>
 </p>
 
 <div align="center">
 
 <a href="https://ramongimenes.dev.br/">
-  <img src="assets/banner.png" alt="Ramon Gimenes — Senior Java Developer · 9 years" width="100%">
+  <img src="assets/banner-pt.png" alt="Ramon Gimenes — Desenvolvedor Java Sênior · 9 anos" width="100%">
 </a>
 
 <br>
 
-<img src="assets/typing.svg" alt="Building backends with Java &amp; Spring Boot · Exploring React Native &amp; modern web · Turning ideas into real products" width="720">
+<img src="assets/typing-pt.svg" alt="Construindo backends com Java e Spring Boot · Criando apps com React Native e Expo · Transformando ideias em produtos reais" width="720">
 
 </div>
 
 <br>
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-**Senior Java developer** from Brazil with **9 years of experience** building backends with
-**Java and Spring Boot**. I also build mobile apps with **React Native**, and I like solutions
-that are simple, useful and easy to use: code matters, but the solved problem is what counts.
+**Desenvolvedor Java sênior**, brasileiro, com **9 anos de experiência** construindo backends com
+**Java e Spring Boot**. Também crio apps mobile com **React Native**, e gosto de soluções simples,
+úteis e fáceis de usar: o código importa, mas o que vale é o problema resolvido.
 
-- ☕ 9 years building backends with **Java** and **Spring Boot**
-- 🧩 Microservices, relational and NoSQL databases, messaging and cloud
-- 📱 Creator of [**Ciclos**](https://ciclosapp.com.br/) and [**Fokus**](https://github.com/ramongime/Fokus), built with React Native
-- 💡 Simple, useful and easy to use: that's the goal
+- ☕ 9 anos construindo backends com **Java** e **Spring Boot**
+- 🧩 Microserviços, bancos relacionais e NoSQL, mensageria e nuvem
+- 📱 Criador do [**Ciclos**](https://ciclosapp.com.br/) e do [**Fokus**](https://github.com/ramongime/Fokus), feitos com React Native
+- 💡 Simples, útil e fácil de usar: esse é o objetivo
 
 <br>
 
-## 🧰 Tech stack
+## 🧰 Tecnologias
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ that are simple, useful and easy to use: code matters, but the solved problem is
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Data</b></td>
+    <td align="center"><b>Dados</b></td>
     <td>
       <img src="assets/stack/postgresql.svg" width="52" alt="PostgreSQL" title="PostgreSQL">
       <img src="assets/stack/mongodb.svg" width="52" alt="MongoDB" title="MongoDB">
@@ -80,7 +80,7 @@ that are simple, useful and easy to use: code matters, but the solved problem is
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>Ferramentas</b></td>
     <td>
       <img src="assets/stack/git.svg" width="52" alt="Git" title="Git">
       <img src="assets/stack/github.svg" width="52" alt="GitHub" title="GitHub">
@@ -93,55 +93,55 @@ that are simple, useful and easy to use: code matters, but the solved problem is
 
 <br>
 
-## 🚀 Featured projects
+## 🚀 Projetos em destaque
 
 <a href="https://ciclosapp.com.br/">
-  <img src="assets/projects/ciclos-en.jpg" alt="Ciclos — recurring tasks, habits and routines app" width="100%">
+  <img src="assets/projects/ciclos-pt.jpg" alt="Ciclos — app de tarefas, hábitos e rotinas recorrentes" width="100%">
 </a>
 
 ### [♻️ Ciclos](https://ciclosapp.com.br/)
 
-A mobile app to manage **recurring tasks, habits and routines**, built with **React Native and Expo**.
+App mobile para gerenciar **tarefas, hábitos e rotinas recorrentes**, feito com **React Native e Expo**.
 
-- 🔁 Cycles with flexible intervals, from hours to years, renewed with one tap
-- 🔔 Local reminders before a cycle is due and when it's overdue
-- 🏆 Challenges with invite codes, a consistency ranking and a monthly global challenge
-- 💡 Ready-made suggestions, categories, light and dark themes, in Portuguese, English and Spanish
-- 💎 Premium plan with RevenueCat and ads with AdMob
+- 🔁 Ciclos com intervalos flexíveis, de horas a anos, renovados com um toque
+- 🔔 Lembretes antes de um ciclo vencer e quando ele atrasa
+- 🏆 Desafios com código de convite, ranking de constância e um desafio global todo mês
+- 💡 Sugestões prontas, categorias, tema claro e escuro, em português, inglês e espanhol
+- 💎 Plano premium com RevenueCat e anúncios com AdMob
 
 <br>
 
 <a href="https://github.com/ramongime/Fokus">
-  <img src="assets/projects/fokus-en.jpg" alt="Fokus — Pomodoro timer and task list" width="100%">
+  <img src="assets/projects/fokus-pt.jpg" alt="Fokus — timer Pomodoro e lista de tarefas" width="100%">
 </a>
 
 ### [🍅 Fokus](https://github.com/ramongime/Fokus)
 
-A minimalist **Pomodoro timer + task list** built with **React Native and Expo**.
+Um **timer Pomodoro + lista de tarefas** minimalista, feito com **React Native e Expo**.
 
-- ⏱️ Keeps counting with the screen locked and notifies (and vibrates) when each cycle ends
-- 🔁 Auto-chains focus and breaks, with a long break every few focus sessions
-- 🎯 Link a task to your focus session and track pomodoros per task
-- 📊 Weekly history with a chart, focused time and day streak
-- 🧪 Tested business logic, lint and CI on every push
+- ⏱️ Continua contando com a tela bloqueada e avisa (e vibra) no fim de cada ciclo
+- 🔁 Emenda foco e pausas sozinho, com pausa longa a cada alguns focos
+- 🎯 Vincula uma tarefa ao foco e conta os pomodoros de cada tarefa
+- 📊 Histórico da semana com gráfico, tempo focado e sequência de dias
+- 🧪 Regras de negócio testadas, lint e CI a cada push
 
 <br>
 
-## 🐍 Contribution activity
+## 🐍 Atividade de contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake.svg">
-  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake-dark.svg">
+  <img alt="Cobrinha comendo meu gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake-dark.svg">
 </picture>
 
 <br>
 
-## 🤝 Let's connect
+## 🤝 Vamos conversar
 
-<a href="https://ramongimenes.dev.br/"><img src="assets/contact/website.svg" alt="Portfolio: ramongimenes.dev.br" height="44"></a>
+<a href="https://ramongimenes.dev.br/"><img src="assets/contact/website-pt.svg" alt="Portfólio: ramongimenes.dev.br" height="44"></a>
 <a href="https://www.linkedin.com/in/ramon-gimenes/"><img src="assets/contact/linkedin.svg" alt="LinkedIn" height="44"></a>
-<a href="mailto:ramongimeee@gmail.com"><img src="assets/contact/email.svg" alt="Email" height="44"></a>
+<a href="mailto:ramongimeee@gmail.com"><img src="assets/contact/email-pt.svg" alt="E-mail" height="44"></a>
 <a href="https://www.instagram.com/ramongimenes"><img src="assets/contact/instagram.svg" alt="Instagram" height="44"></a>
 <a href="https://github.com/ramongime"><img src="assets/contact/github.svg" alt="GitHub" height="44"></a>
 
@@ -149,6 +149,6 @@ A minimalist **Pomodoro timer + task list** built with **React Native and Expo**
 
 <div align="center">
 
-**Thanks for stopping by!** Feel free to explore my repositories and follow my journey 🚀
+**Valeu pela visita!** Fique à vontade para explorar meus repositórios e acompanhar minha jornada 🚀
 
 </div>
