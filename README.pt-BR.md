@@ -12,6 +12,14 @@
 
 <img src="assets/typing-pt.svg" alt="Construindo backends com Java e Spring Boot · Criando apps com React Native e Expo · Transformando ideias em produtos reais" width="720">
 
+<br><br>
+
+<a href="https://ramongimenes.dev.br/"><img src="https://img.shields.io/badge/Disponível_para_novos_desafios-2EA043?style=flat-square" alt="Disponível para novos desafios"></a>
+<a href="https://ramongimenes.dev.br/"><img src="https://img.shields.io/badge/ramongimenes.dev.br-F89820?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+<a href="https://www.linkedin.com/in/ramon-gimenes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ramongimeee@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Brasil-151b23?style=flat-square" alt="Mora no Brasil">
+
 </div>
 
 <br>
@@ -80,6 +88,18 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b>Arquitetura</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsserviços-151b23?style=for-the-badge" alt="Microsserviços">
+      <img src="https://img.shields.io/badge/Hexagonal-151b23?style=for-the-badge" alt="Hexagonal">
+      <img src="https://img.shields.io/badge/Clean_Architecture-151b23?style=for-the-badge" alt="Clean Architecture">
+      <img src="https://img.shields.io/badge/DDD-151b23?style=for-the-badge" alt="DDD">
+      <img src="https://img.shields.io/badge/CQRS-151b23?style=for-the-badge" alt="CQRS">
+      <img src="https://img.shields.io/badge/TDD-151b23?style=for-the-badge" alt="TDD">
+      <br><sub>Microsserviços · Hexagonal · Clean Architecture · DDD · CQRS · TDD</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Infra</b></td>
     <td>
       <img src="assets/stack/docker.svg" width="52" alt="Docker" title="Docker">
@@ -104,7 +124,7 @@
 
 ## 🚀 Projetos em destaque
 
-Produtos que eu desenhei e construí de ponta a ponta, da **API em Java** ao app no seu celular, no seu computador e na sua TV.
+Produtos que eu desenhei e construí de ponta a ponta: a **API em Java**, o app no seu celular, no seu computador e na sua TV, e a landing page.
 
 <table>
   <tr>
@@ -177,6 +197,7 @@ ano. Um app em **React Native** com a minha própria API em **Java 25 + Spring B
 </table>
 
 [![Site](https://img.shields.io/badge/Site-ciclosapp.com.br-5C6B46?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ciclosapp.com.br/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Baixar-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.merg.ciclosapp)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -290,6 +311,31 @@ bloqueie a tela, guarde o celular e o Fokus te avisa quando o tempo acabar. O c�
 
 <br>
 
+### 🧩 Outros projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/slimmenu-pt.jpg" alt="SlimMenu: emagreça com refeições que você gosta" width="100%">
+      <br>
+      <b>🥗 SlimMenu</b><br>
+      <sub>App de emagrecimento que calcula a sua meta calórica (Mifflin-St Jeor) e monta o plano do dia com
+      refeições brasileiras, com macros, troca de prato e progresso de peso. React Native, Expo Router e Zustand.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ramongimenes.dev.br/"><img src="assets/projects/portfolio-pt.jpg" alt="Portfólio pessoal em ramongimenes.dev.br" width="100%"></a>
+      <br>
+      <a href="https://ramongimenes.dev.br/"><b>🌐 ramongimenes.dev.br</b></a><br>
+      <sub>Meu portfólio pessoal: uma página só, minimalista, em português e inglês, com galeria dos projetos.
+      React 19, Vite e Tailwind 4, servido pela Cloudflare.</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>O Ciclos e o OrçaFácil também têm landing pages próprias, feitas com React, TypeScript e Vite.</sub>
+
+<br>
+
 ## 🐍 Atividade de contribuições
 
 <picture>
@@ -297,6 +343,19 @@ bloqueie a tela, guarde o celular e o Fokus te avisa quando o tempo acabar. O c�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake.svg">
   <img alt="Cobrinha comendo meu gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake-dark.svg">
 </picture>
+
+<br>
+
+## ☕ Além do código
+
+<table>
+  <tr>
+    <td align="center" width="25%">☕<br><b>Café</b><br><sub>Grãos especiais e métodos de extração diferentes</sub></td>
+    <td align="center" width="25%">🏎️<br><b>Fórmula 1</b><br><sub>Automobilismo e a precisão das pistas</sub></td>
+    <td align="center" width="25%">🏃<br><b>Esportes</b><br><sub>Corpo em movimento, mente afiada</sub></td>
+    <td align="center" width="25%">📊<br><b>Dados</b><br><sub>Decisão vem depois da análise</sub></td>
+  </tr>
+</table>
 
 <br>
 

@@ -12,6 +12,14 @@
 
 <img src="assets/typing.svg" alt="Building backends with Java &amp; Spring Boot · Exploring React Native &amp; modern web · Turning ideas into real products" width="720">
 
+<br><br>
+
+<a href="https://ramongimenes.dev.br/"><img src="https://img.shields.io/badge/Open_to_new_challenges-2EA043?style=flat-square" alt="Open to new challenges"></a>
+<a href="https://ramongimenes.dev.br/"><img src="https://img.shields.io/badge/ramongimenes.dev.br-F89820?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/ramon-gimenes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ramongimeee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Brazil-151b23?style=flat-square" alt="Based in Brazil">
+
 </div>
 
 <br>
@@ -80,6 +88,18 @@ that are simple, useful and easy to use: code matters, but the solved problem is
     </td>
   </tr>
   <tr>
+    <td align="center"><b>Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microservices-151b23?style=for-the-badge" alt="Microservices">
+      <img src="https://img.shields.io/badge/Hexagonal-151b23?style=for-the-badge" alt="Hexagonal">
+      <img src="https://img.shields.io/badge/Clean_Architecture-151b23?style=for-the-badge" alt="Clean Architecture">
+      <img src="https://img.shields.io/badge/DDD-151b23?style=for-the-badge" alt="DDD">
+      <img src="https://img.shields.io/badge/CQRS-151b23?style=for-the-badge" alt="CQRS">
+      <img src="https://img.shields.io/badge/TDD-151b23?style=for-the-badge" alt="TDD">
+      <br><sub>Microservices · Hexagonal · Clean Architecture · DDD · CQRS · TDD</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Infra</b></td>
     <td>
       <img src="assets/stack/docker.svg" width="52" alt="Docker" title="Docker">
@@ -104,7 +124,7 @@ that are simple, useful and easy to use: code matters, but the solved problem is
 
 ## 🚀 Featured projects
 
-Products I designed and built end to end, from the **Java API** to the app on your phone, your computer and your TV.
+Products I designed and built end to end: the **Java API**, the app on your phone, your computer and your TV, and the landing page.
 
 <table>
   <tr>
@@ -177,6 +197,7 @@ every year. A **React Native** app backed by my own **Java 25 + Spring Boot** AP
 </table>
 
 [![Website](https://img.shields.io/badge/Website-ciclosapp.com.br-5C6B46?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ciclosapp.com.br/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Get_it-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.merg.ciclosapp)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -290,6 +311,31 @@ put the phone away, and Fokus lets you know when time is up. The code is public 
 
 <br>
 
+### 🧩 More projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/slimmenu-en.jpg" alt="SlimMenu: lose weight with meals you love" width="100%">
+      <br>
+      <b>🥗 SlimMenu</b><br>
+      <sub>A weight-loss app that works out your calorie goal (Mifflin-St Jeor) and builds the day's plan with
+      Brazilian meals, with macros, meal swaps and weight progress. React Native, Expo Router and Zustand.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ramongimenes.dev.br/"><img src="assets/projects/portfolio-en.jpg" alt="Personal portfolio at ramongimenes.dev.br" width="100%"></a>
+      <br>
+      <a href="https://ramongimenes.dev.br/"><b>🌐 ramongimenes.dev.br</b></a><br>
+      <sub>My personal portfolio: one minimalist page in Portuguese and English, with a project gallery.
+      React 19, Vite, Tailwind 4, served by Cloudflare.</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Ciclos and OrçaFácil also have their own landing pages, built with React, TypeScript and Vite.</sub>
+
+<br>
+
 ## 🐍 Contribution activity
 
 <picture>
@@ -297,6 +343,19 @@ put the phone away, and Fokus lets you know when time is up. The code is public 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake.svg">
   <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ramongime/ramongime/output/github-snake-dark.svg">
 </picture>
+
+<br>
+
+## ☕ Beyond code
+
+<table>
+  <tr>
+    <td align="center" width="25%">☕<br><b>Coffee</b><br><sub>Specialty beans and different brewing methods</sub></td>
+    <td align="center" width="25%">🏎️<br><b>Formula 1</b><br><sub>Motorsport and the precision of the track</sub></td>
+    <td align="center" width="25%">🏃<br><b>Sports</b><br><sub>A moving body keeps the mind sharp</sub></td>
+    <td align="center" width="25%">📊<br><b>Data</b><br><sub>Decisions come after the analysis</sub></td>
+  </tr>
+</table>
 
 <br>
 
