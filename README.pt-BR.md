@@ -311,23 +311,17 @@ bloqueie a tela, guarde o celular e o Fokus te avisa quando o tempo acabar. O c�
 
 <br>
 
-### 🧩 Outros projetos
+### 🌐 Portfólio
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/slimmenu-pt.jpg" alt="SlimMenu: emagreça com refeições que você gosta" width="100%">
-      <br>
-      <b>🥗 SlimMenu</b><br>
-      <sub>App de emagrecimento que calcula a sua meta calórica (Mifflin-St Jeor) e monta o plano do dia com
-      refeições brasileiras, com macros, troca de prato e progresso de peso. React Native, Expo Router e Zustand.</sub>
-    </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle">
       <a href="https://ramongimenes.dev.br/"><img src="assets/projects/portfolio-pt.jpg" alt="Portfólio pessoal em ramongimenes.dev.br" width="100%"></a>
-      <br>
-      <a href="https://ramongimenes.dev.br/"><b>🌐 ramongimenes.dev.br</b></a><br>
-      <sub>Meu portfólio pessoal: uma página só, minimalista, em português e inglês, com galeria dos projetos.
-      React 19, Vite e Tailwind 4, servido pela Cloudflare.</sub>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://ramongimenes.dev.br/"><b>🌐 ramongimenes.dev.br</b></a><br><br>
+      Meu portfólio pessoal: uma página só, minimalista, em português e inglês, com galeria dos projetos.
+      React 19, Vite e Tailwind 4, servido pela Cloudflare.
     </td>
   </tr>
 </table>

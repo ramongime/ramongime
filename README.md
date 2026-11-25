@@ -311,23 +311,17 @@ put the phone away, and Fokus lets you know when time is up. The code is public 
 
 <br>
 
-### 🧩 More projects
+### 🌐 Portfolio
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/projects/slimmenu-en.jpg" alt="SlimMenu: lose weight with meals you love" width="100%">
-      <br>
-      <b>🥗 SlimMenu</b><br>
-      <sub>A weight-loss app that works out your calorie goal (Mifflin-St Jeor) and builds the day's plan with
-      Brazilian meals, with macros, meal swaps and weight progress. React Native, Expo Router and Zustand.</sub>
-    </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle">
       <a href="https://ramongimenes.dev.br/"><img src="assets/projects/portfolio-en.jpg" alt="Personal portfolio at ramongimenes.dev.br" width="100%"></a>
-      <br>
-      <a href="https://ramongimenes.dev.br/"><b>🌐 ramongimenes.dev.br</b></a><br>
-      <sub>My personal portfolio: one minimalist page in Portuguese and English, with a project gallery.
-      React 19, Vite, Tailwind 4, served by Cloudflare.</sub>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://ramongimenes.dev.br/"><b>🌐 ramongimenes.dev.br</b></a><br><br>
+      My personal portfolio: one minimalist page in Portuguese and English, with a project gallery.
+      React 19, Vite, Tailwind 4, served by Cloudflare.
     </td>
   </tr>
 </table>
